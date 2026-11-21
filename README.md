@@ -1,2 +1,2 @@
-# voidsbane
-Evento hecho por mi.
+# Abyssali Voidsbane
+Evento hecho por Gregoryism.
